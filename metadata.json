@@ -1,0 +1,6 @@
+{
+  "name": "Prospero English Medium School, Gudur",
+  "description": "The premium, responsive official website of Prospero English Medium School, Gudur, featuring world-class facilities, academic programs, online admissions, interactive gallery, calendar, activities, and rich campus insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
