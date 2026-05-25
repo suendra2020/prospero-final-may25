@@ -133,7 +133,7 @@ export const Footer: React.FC<FooterProps> = ({ setView }) => {
             </div>
 
             {/* Newsletter form */}
-            <div className="space-y-3 pt-2">
+            {/* <div className="space-y-3 pt-2">
               <h4 className="text-xs font-bold text-slate-100">School Newsletter</h4>
               <form onSubmit={handleSubscribe} className="flex gap-1.5">
                 <input
@@ -156,7 +156,7 @@ export const Footer: React.FC<FooterProps> = ({ setView }) => {
                   ✓ Successfully locked in. Weekly reports sent.
                 </p>
               )}
-            </div>
+            </div> */}
           </div>
 
         </div>
