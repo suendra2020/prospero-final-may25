@@ -72,6 +72,14 @@ html {
   background: #fff;
 
 }
+.logo-text {
+    background: #1e1b4b;
+    padding: 10px;
+    color: #fff;
+    font-weight: bold;
+    border-radius: 15px 2px;
+    font-size: 1rem;
+}
  .logo-text{
   background: #fff;
     padding: 0px;

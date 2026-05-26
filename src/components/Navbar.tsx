@@ -113,9 +113,9 @@ export const Navbar: React.FC<NavbarProps> = ({ currentView, setView }) => {
           {/* Tablet/Mobile Action Tray */}
           <div className="flex xl:hidden items-center gap-2">
             {/* Active page label header on mobile */}
-            <span className="text-[11px] font-mono uppercase font-extrabold tracking-widest text-brand-cyan bg-slate-100 dark:bg-slate-800/80 px-2 py-1 rounded-sm mr-1">
+            {/* <span className="text-[11px] font-mono uppercase font-extrabold tracking-widest text-brand-cyan bg-slate-100 dark:bg-slate-800/80 px-2 py-1 rounded-sm mr-1">
               {navItems.find((n) => n.id === currentView)?.label}
-            </span>
+            </span> */}
 
             {/* Mobile Theme Switcher */}
             <button
