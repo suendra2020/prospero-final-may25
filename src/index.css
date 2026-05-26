@@ -80,6 +80,9 @@ color: #333;
         font-size: 0.8rem;
         font-weight: bolder;
 }
+#mobile-menu-trigger{
+  color: #000;
+}
  .logo-text{
   background: #fff;
     padding: 0px;
