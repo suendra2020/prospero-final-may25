@@ -68,7 +68,10 @@ html {
 
 /* Mobile Devices */
 @media screen and (max-width: 576px) {
+.glass-light {
+  background: #fff;
 
+}
  .logo-text{
   background: #fff;
     padding: 0px;
